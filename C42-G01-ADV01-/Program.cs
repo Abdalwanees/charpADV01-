@@ -15,6 +15,7 @@ namespace C42_G01_ADV01_
             {
                 Console.Write($"{arr[i]},");
             }
+
             Console.WriteLine("\n---------------");
             Console.WriteLine("Array After Sorting");
             Sort.BubbleSort(arr);
